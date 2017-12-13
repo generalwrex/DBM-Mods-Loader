@@ -9,7 +9,7 @@ Extract the files into a folder somewhere.
 Go into the dbmmods folder and run `npm install`
 
      git clone https://github.com/generalwrex/DBM-Mods-Loader.git
-     cd DBM-Mods-Loader/actions/dbmmods
+     cd DBM-Mods-Loader-master/actions/dbmmods
      npm install
 
 Now we want to copy `dbmmods_loader.js` and the `dbmmods` folder into your bot directory actions folder and discord bot makers action folder
