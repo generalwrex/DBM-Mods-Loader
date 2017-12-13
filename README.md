@@ -2,9 +2,13 @@
 A mod loader for Discord Bot Maker to make using mods easier.
 
 
+
+
 Download or clone the repository's zip file.
 
 Extract the files into a folder somewhere.
+
+![](https://i.gyazo.com/d3dfd85ea6b953deacf631dbe11c35a4.png)
 
 Go into the dbmmods folder and run `npm install`
 
