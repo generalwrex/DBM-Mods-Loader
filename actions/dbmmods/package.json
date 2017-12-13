@@ -1,0 +1,18 @@
+{
+  "name": "dbmmods",
+  "author": "Discord Bot Maker Mods",
+  "description": "Custom Mods for Discord Bot Maker",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Discord-Bot-Maker-Mods/DBM-Mods.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Discord-Bot-Maker-Mods/DBM-Mods/issues"
+  },
+  "homepage": "https://github.com/Discord-Bot-Maker-Mods/DBM-Mods#readme",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "request": "^2.83.0"
+  }
+}
