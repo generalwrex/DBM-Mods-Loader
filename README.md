@@ -29,7 +29,7 @@ Supports subdirectories
 
 Or directly into the folder
 
-     ...actions/dbmmods/actions/yourmod)MOD.js
+     ...actions/dbmmods/actions/yourmod_MOD.js
 
 
 Can now include readme's among other files with your mods using this loader!
